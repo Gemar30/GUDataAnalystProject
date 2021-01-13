@@ -4,6 +4,11 @@ Data Analyst Project Portfolio
 Tableau Data Analysis Project
 1. Sales Insights
 
+# Application
+- SQL- MySQL Workbench
+- Tableau- Tableau Desktop
+
+
 # Objectives
 - Revenue breakdown by cities
 - Revenue breakdown by years and months
@@ -30,4 +35,6 @@ Tableau Data Analysis Project
 - Sales analyst stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
 
 
-
+# Application
+- SQL- MySQL Workbench
+- Tableau- Tableau Desktop
